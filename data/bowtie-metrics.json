@@ -1,0 +1,260 @@
+{
+  "validators": [
+    {
+      "name": "jsonschema",
+      "language": "go",
+      "compliance": 100,
+      "passedTests": 1277,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "json_schemer",
+      "language": "ruby",
+      "compliance": 100,
+      "passedTests": 1277,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "jsonschema",
+      "language": "rust",
+      "compliance": 100,
+      "passedTests": 1277,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "blaze",
+      "language": "c++",
+      "compliance": 100,
+      "passedTests": 1277,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "boon",
+      "language": "rust",
+      "compliance": 100,
+      "passedTests": 1277,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "JsonSchema.Net",
+      "language": "dotnet",
+      "compliance": 100,
+      "passedTests": 1275,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "org.sjf4j-sjf4j",
+      "language": "java",
+      "compliance": 100,
+      "passedTests": 1277,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "kmp-json-schema-validator",
+      "language": "kotlin",
+      "compliance": 100,
+      "passedTests": 1277,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "jsv",
+      "language": "elixir",
+      "compliance": 100,
+      "passedTests": 1277,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "com.networknt-json-schema-validator",
+      "language": "java",
+      "compliance": 100,
+      "passedTests": 1277,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "io.openapiprocessor.json-schema-validator",
+      "language": "java",
+      "compliance": 100,
+      "passedTests": 1277,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "json-schema",
+      "language": "java",
+      "compliance": 100,
+      "passedTests": 1277,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "JSON-Schema-Modern",
+      "language": "perl",
+      "compliance": 100,
+      "passedTests": 1277,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "dev.harrel.json-schema",
+      "language": "java",
+      "compliance": 100,
+      "passedTests": 1277,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "Corvus.JsonSchema",
+      "language": "dotnet",
+      "compliance": 100,
+      "passedTests": 1277,
+      "failedTests": 0,
+      "category": "perfect"
+    },
+    {
+      "name": "jsonschema",
+      "language": "python",
+      "compliance": 99.92,
+      "passedTests": 1276,
+      "failedTests": 1,
+      "category": "perfect"
+    },
+    {
+      "name": "jsoncons",
+      "language": "c++",
+      "compliance": 99.92,
+      "passedTests": 1274,
+      "failedTests": 1,
+      "category": "perfect"
+    },
+    {
+      "name": "schemasafe",
+      "language": "javascript",
+      "compliance": 99.92,
+      "passedTests": 1235,
+      "failedTests": 1,
+      "category": "perfect"
+    },
+    {
+      "name": "mjs",
+      "language": "scala",
+      "compliance": 99.84,
+      "passedTests": 1263,
+      "failedTests": 2,
+      "category": "perfect"
+    },
+    {
+      "name": "rc-circe-json-validator",
+      "language": "scala",
+      "compliance": 99.76,
+      "passedTests": 1268,
+      "failedTests": 3,
+      "category": "perfect"
+    },
+    {
+      "name": "jschon",
+      "language": "python",
+      "compliance": 99.69,
+      "passedTests": 1271,
+      "failedTests": 4,
+      "category": "perfect"
+    },
+    {
+      "name": "hyperjump-json-schema",
+      "language": "javascript",
+      "compliance": 99.69,
+      "passedTests": 1273,
+      "failedTests": 4,
+      "category": "perfect"
+    },
+    {
+      "name": "Newtonsoft-Json-Schema",
+      "language": "dotnet",
+      "compliance": 99.61,
+      "passedTests": 1268,
+      "failedTests": 5,
+      "category": "perfect"
+    },
+    {
+      "name": "swift-json-schema",
+      "language": "swift",
+      "compliance": 99.22,
+      "passedTests": 1267,
+      "failedTests": 10,
+      "category": "perfect"
+    },
+    {
+      "name": "jsonschemafriend",
+      "language": "java",
+      "compliance": 99.22,
+      "passedTests": 1267,
+      "failedTests": 10,
+      "category": "perfect"
+    },
+    {
+      "name": "ajv",
+      "language": "javascript",
+      "compliance": 97.44,
+      "passedTests": 1029,
+      "failedTests": 27,
+      "category": "perfect"
+    },
+    {
+      "name": "theflashlabs-ajv-plus",
+      "language": "javascript",
+      "compliance": 97.29,
+      "passedTests": 1221,
+      "failedTests": 34,
+      "category": "perfect"
+    },
+    {
+      "name": "schema",
+      "language": "lua",
+      "compliance": 96.76,
+      "passedTests": 1223,
+      "failedTests": 41,
+      "category": "perfect"
+    },
+    {
+      "name": "cfworker-json-schema",
+      "language": "javascript",
+      "compliance": 96.69,
+      "passedTests": 1225,
+      "failedTests": 42,
+      "category": "perfect"
+    },
+    {
+      "name": "opis-json-schema",
+      "language": "php",
+      "compliance": 96.06,
+      "passedTests": 1194,
+      "failedTests": 49,
+      "category": "perfect"
+    },
+    {
+      "name": "vscode-json-language-service",
+      "language": "typescript",
+      "compliance": 91.93,
+      "passedTests": 1174,
+      "failedTests": 103,
+      "category": "high"
+    },
+    {
+      "name": "jsu",
+      "language": "python",
+      "compliance": 90.37,
+      "passedTests": 1154,
+      "failedTests": 123,
+      "category": "high"
+    }
+  ]
+}

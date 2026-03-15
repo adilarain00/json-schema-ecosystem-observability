@@ -1,0 +1,9 @@
+{
+  "alerts": [
+    {
+      "type": "growth-stagnation",
+      "message": "Repository growth has stagnated over the last two periods at 2420 repos",
+      "severity": "low"
+    }
+  ]
+}

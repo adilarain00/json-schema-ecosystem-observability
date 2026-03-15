@@ -1,0 +1,274 @@
+[
+  {
+    "timestamp": "2026-03-04",
+    "npmDownloads": {
+      "ajv": 350000000
+    },
+    "github": {
+      "repoCount": 2400,
+      "stars": 9000000,
+      "forks": 1100000
+    },
+    "bowtie": {
+      "ajv": 98.44
+    }
+  },
+  {
+    "timestamp": "2026-03-11",
+    "npmDownloads": {
+      "ajv": 264141721
+    },
+    "github": {
+      "repoCount": 2410,
+      "stars": 9138000,
+      "forks": 1129440
+    },
+    "bowtie": {
+      "jsonschema": 99.92,
+      "json_schemer": 100,
+      "blaze": 100,
+      "boon": 100,
+      "JsonSchema.Net": 100,
+      "org.sjf4j-sjf4j": 100,
+      "kmp-json-schema-validator": 100,
+      "jsv": 100,
+      "com.networknt-json-schema-validator": 100,
+      "io.openapiprocessor.json-schema-validator": 100,
+      "json-schema": 100,
+      "JSON-Schema-Modern": 100,
+      "dev.harrel.json-schema": 100,
+      "Corvus.JsonSchema": 100,
+      "jsoncons": 99.92,
+      "schemasafe": 99.92,
+      "mjs": 99.84,
+      "rc-circe-json-validator": 99.76,
+      "jschon": 99.69,
+      "hyperjump-json-schema": 99.69,
+      "Newtonsoft-Json-Schema": 99.61,
+      "swift-json-schema": 99.22,
+      "jsonschemafriend": 99.22,
+      "ajv": 97.44,
+      "theflashlabs-ajv-plus": 97.29,
+      "schema": 96.76,
+      "cfworker-json-schema": 96.69,
+      "opis-json-schema": 96.06,
+      "vscode-json-language-service": 91.93,
+      "jsu": 90.37
+    }
+  },
+  {
+    "timestamp": "2026-03-11",
+    "npmDownloads": {
+      "ajv": 264141721
+    },
+    "github": {
+      "repoCount": 2410,
+      "stars": 9138000,
+      "forks": 1129464
+    },
+    "bowtie": {
+      "jsonschema": 99.92,
+      "json_schemer": 100,
+      "blaze": 100,
+      "boon": 100,
+      "JsonSchema.Net": 100,
+      "org.sjf4j-sjf4j": 100,
+      "kmp-json-schema-validator": 100,
+      "jsv": 100,
+      "com.networknt-json-schema-validator": 100,
+      "io.openapiprocessor.json-schema-validator": 100,
+      "json-schema": 100,
+      "JSON-Schema-Modern": 100,
+      "dev.harrel.json-schema": 100,
+      "Corvus.JsonSchema": 100,
+      "jsoncons": 99.92,
+      "schemasafe": 99.92,
+      "mjs": 99.84,
+      "rc-circe-json-validator": 99.76,
+      "jschon": 99.69,
+      "hyperjump-json-schema": 99.69,
+      "Newtonsoft-Json-Schema": 99.61,
+      "swift-json-schema": 99.22,
+      "jsonschemafriend": 99.22,
+      "ajv": 97.44,
+      "theflashlabs-ajv-plus": 97.29,
+      "schema": 96.76,
+      "cfworker-json-schema": 96.69,
+      "opis-json-schema": 96.06,
+      "vscode-json-language-service": 91.93,
+      "jsu": 90.37
+    }
+  },
+  {
+    "timestamp": "2026-03-11",
+    "npmDownloads": {
+      "ajv": 264141721
+    },
+    "github": {
+      "repoCount": 2410,
+      "stars": 9138024,
+      "forks": 1129464
+    },
+    "bowtie": {
+      "jsonschema": 99.92,
+      "json_schemer": 100,
+      "blaze": 100,
+      "boon": 100,
+      "JsonSchema.Net": 100,
+      "org.sjf4j-sjf4j": 100,
+      "kmp-json-schema-validator": 100,
+      "jsv": 100,
+      "com.networknt-json-schema-validator": 100,
+      "io.openapiprocessor.json-schema-validator": 100,
+      "json-schema": 100,
+      "JSON-Schema-Modern": 100,
+      "dev.harrel.json-schema": 100,
+      "Corvus.JsonSchema": 100,
+      "jsoncons": 99.92,
+      "schemasafe": 99.92,
+      "mjs": 99.84,
+      "rc-circe-json-validator": 99.76,
+      "jschon": 99.69,
+      "hyperjump-json-schema": 99.69,
+      "Newtonsoft-Json-Schema": 99.61,
+      "swift-json-schema": 99.22,
+      "jsonschemafriend": 99.22,
+      "ajv": 97.44,
+      "theflashlabs-ajv-plus": 97.29,
+      "schema": 96.76,
+      "cfworker-json-schema": 96.69,
+      "opis-json-schema": 96.06,
+      "vscode-json-language-service": 91.93,
+      "jsu": 90.37
+    }
+  },
+  {
+    "timestamp": "2026-03-14",
+    "npmDownloads": {
+      "ajv": 218682118
+    },
+    "github": {
+      "repoCount": 2420,
+      "stars": 9143832,
+      "forks": 1131624
+    },
+    "bowtie": {
+      "jsonschema": 99.92,
+      "json_schemer": 100,
+      "blaze": 100,
+      "boon": 100,
+      "JsonSchema.Net": 100,
+      "org.sjf4j-sjf4j": 100,
+      "kmp-json-schema-validator": 100,
+      "jsv": 100,
+      "com.networknt-json-schema-validator": 100,
+      "io.openapiprocessor.json-schema-validator": 100,
+      "json-schema": 100,
+      "JSON-Schema-Modern": 100,
+      "dev.harrel.json-schema": 100,
+      "Corvus.JsonSchema": 100,
+      "jsoncons": 99.92,
+      "schemasafe": 99.92,
+      "mjs": 99.84,
+      "rc-circe-json-validator": 99.76,
+      "jschon": 99.69,
+      "hyperjump-json-schema": 99.69,
+      "Newtonsoft-Json-Schema": 99.61,
+      "swift-json-schema": 99.22,
+      "jsonschemafriend": 99.22,
+      "ajv": 97.44,
+      "theflashlabs-ajv-plus": 97.29,
+      "schema": 96.76,
+      "cfworker-json-schema": 96.69,
+      "opis-json-schema": 96.06,
+      "vscode-json-language-service": 91.93,
+      "jsu": 90.37
+    }
+  },
+  {
+    "timestamp": "2026-03-14",
+    "npmDownloads": {
+      "ajv": 218682118
+    },
+    "github": {
+      "repoCount": 2420,
+      "stars": 9144000,
+      "forks": 1131600
+    },
+    "bowtie": {
+      "jsonschema": 99.92,
+      "json_schemer": 100,
+      "blaze": 100,
+      "boon": 100,
+      "JsonSchema.Net": 100,
+      "org.sjf4j-sjf4j": 100,
+      "kmp-json-schema-validator": 100,
+      "jsv": 100,
+      "com.networknt-json-schema-validator": 100,
+      "io.openapiprocessor.json-schema-validator": 100,
+      "json-schema": 100,
+      "JSON-Schema-Modern": 100,
+      "dev.harrel.json-schema": 100,
+      "Corvus.JsonSchema": 100,
+      "jsoncons": 99.92,
+      "schemasafe": 99.92,
+      "mjs": 99.84,
+      "rc-circe-json-validator": 99.76,
+      "jschon": 99.69,
+      "hyperjump-json-schema": 99.69,
+      "Newtonsoft-Json-Schema": 99.61,
+      "swift-json-schema": 99.22,
+      "jsonschemafriend": 99.22,
+      "ajv": 97.44,
+      "theflashlabs-ajv-plus": 97.29,
+      "schema": 96.76,
+      "cfworker-json-schema": 96.69,
+      "opis-json-schema": 96.06,
+      "vscode-json-language-service": 91.93,
+      "jsu": 90.37
+    }
+  },
+  {
+    "timestamp": "2026-03-14",
+    "npmDownloads": {
+      "ajv": 218682118
+    },
+    "github": {
+      "repoCount": 2420,
+      "stars": 9143976,
+      "forks": 1131600
+    },
+    "bowtie": {
+      "jsonschema": 99.92,
+      "json_schemer": 100,
+      "blaze": 100,
+      "boon": 100,
+      "JsonSchema.Net": 100,
+      "org.sjf4j-sjf4j": 100,
+      "kmp-json-schema-validator": 100,
+      "jsv": 100,
+      "com.networknt-json-schema-validator": 100,
+      "io.openapiprocessor.json-schema-validator": 100,
+      "json-schema": 100,
+      "JSON-Schema-Modern": 100,
+      "dev.harrel.json-schema": 100,
+      "Corvus.JsonSchema": 100,
+      "jsoncons": 99.92,
+      "schemasafe": 99.92,
+      "mjs": 99.84,
+      "rc-circe-json-validator": 99.76,
+      "jschon": 99.69,
+      "hyperjump-json-schema": 99.69,
+      "Newtonsoft-Json-Schema": 99.61,
+      "swift-json-schema": 99.22,
+      "jsonschemafriend": 99.22,
+      "ajv": 97.44,
+      "theflashlabs-ajv-plus": 97.29,
+      "schema": 96.76,
+      "cfworker-json-schema": 96.69,
+      "opis-json-schema": 96.06,
+      "vscode-json-language-service": 91.93,
+      "jsu": 90.37
+    }
+  }
+]
