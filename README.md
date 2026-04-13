@@ -6,34 +6,34 @@ This Proof of Concept (PoC) demonstrates an **automated observability pipeline**
 
 The platform transforms raw ecosystem data into **actionable insights**, enabling maintainers, contributors, and decision-makers to better understand the growth, stability, and compliance trends of JSON Schema implementations across the open-source landscape.
 
-![Project Dashboard](./dashboard.png)
+![Project Dashboard](./json1.png)
 
 <br />
 
 <p align="center">
 
   <!-- 🌍 Live Project -->
-  <a href="#" target="_blank">
+  <a href="https://json-schema-ecosystem-observability.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌍 Live_Project-000000?style=for-the-badge&logo=&logoColor=white" />
   </a>
 
   <!-- 📂 GitHub Repo -->
-  <a href="#" target="_blank">
+  <a href="https://github.com/adilarain00/json-schema-ecosystem-observability" target="_blank">
     <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <!-- 📝 Case Study -->
-  <a href="#" target="_blank">
+  <a href="https://json-schema-ecosystem-observability.vercel.app/documents/poc-case-study" target="_blank">
     <img src="https://img.shields.io/badge/Case_Study-4CAF50?style=for-the-badge&logo=&logoColor=white" />
   </a>
 
   <!-- ✍️ Blog (Portfolio) -->
-  <a href="#" target="_blank">
+  <a href="https://json-schema-ecosystem-observability.vercel.app/documents/poc-case-study" target="_blank">
     <img src="https://img.shields.io/badge/Blog-FF9800?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
 
   <!-- 🔗 LinkedIn Post -->
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/posts/adilamjad00_googlesummerofcode-gsoc2026-opensource-ugcPost-7439686845032062976-ARcM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE9gbZABjWJQao04XHSlnY-6-rfc8s4LNrc" target="_blank">
     <img src="https://img.shields.io/badge/🔗 LinkedIn_Post-0A66C2?style=for-the-badge&logo=&logoColor=white" />
   </a>
 
